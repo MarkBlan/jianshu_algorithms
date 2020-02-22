@@ -1,0 +1,23 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "7581D986F819DDCF0076D6F95FC449F6E2475DFF",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "7581D986F819DDCF0076D6F95FC449F6E2475DFF" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "041158CD-A278-4868-BDC7-55A74767EF94",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "7581D986F819DDCF0076D6F95FC449F6E2475DFF" : "jianshu_algorithms\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Unix",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Unix\/Unix.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/MarkBlan\/jianshu_algorithms.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7581D986F819DDCF0076D6F95FC449F6E2475DFF"
+    }
+  ]
+}
