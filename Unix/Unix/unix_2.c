@@ -10,7 +10,6 @@
 //
 //
 /*problem2:*/
-int myBinarySearch();
 /*problem3:i n:a[i]=a[2*i]=a[3*i]的次数*/
 /*problem4:杂技算法，求逆算法*/
 /*problem5:abc->cba*/
