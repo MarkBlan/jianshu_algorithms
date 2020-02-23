@@ -15,30 +15,30 @@ void mySiftUp(int *,int,int);
 void mySiftDown(int *,int);
 void myDeleteMin(int *,int);
 
-int main(){
-    srand((unsigned)time(NULL));
-    int n;
-    int *arr;
-    while ((scanf("%d",&n)!=EOF)) {
-        
-        arr = malloc(sizeof(int)*(n+1));
-        
-        arr[0] = 0;
-        
-        for(int i = 1;i<=n;++i){
-            
-            arr[i] = rand()%100;
-            
-        }
-        myBuildHeap(arr, n);
-        
-        for(int i = 1;i<=n;++i){
-            printf("%d ",arr[i]);
-        }
-        printf("\n");
-        free(arr);
-    }
-}
+//int main(){
+//    srand((unsigned)time(NULL));
+//    int n;
+//    int *arr;
+//    while ((scanf("%d",&n)!=EOF)) {
+//        
+//        arr = malloc(sizeof(int)*(n+1));
+//        
+//        arr[0] = 0;
+//        
+//        for(int i = 1;i<=n;++i){
+//            
+//            arr[i] = rand()%100;
+//            
+//        }
+//        myBuildHeap(arr, n);
+//        
+//        for(int i = 1;i<=n;++i){
+//            printf("%d ",arr[i]);
+//        }
+//        printf("\n");
+//        free(arr);
+//    }
+//}
 
 void myBuildHeap(int *arr,int n){
     
